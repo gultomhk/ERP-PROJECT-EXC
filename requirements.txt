@@ -1,4 +1,4 @@
-# Odoo default dependencies (jika tidak pakai image resmi)
+# Odoo default dependencies 
 wheel
 psycopg2-binary>=2.8
 Babel
