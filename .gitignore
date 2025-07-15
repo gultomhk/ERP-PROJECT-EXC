@@ -1,0 +1,11 @@
+.pyc
+pycache/
+.log
+.env
+.swp
+.vscode/
+.idea/
+addons//node_modules/
+addons//static/lib/
+addons//static/dist/
+db_dumps/
